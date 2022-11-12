@@ -56,6 +56,6 @@ Feel free to contact me. We can talk about anything!
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BatuhanUlucay&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BatuhanUlucay&theme=calm)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanUlucay&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanUlucay&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
